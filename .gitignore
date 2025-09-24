@@ -17,3 +17,10 @@ node_modules/
 .devcontainer/
 .dockerignore
 node_modules/
+.DS_Store
+.devcontainer/
+.dockerignore
+node_modules/
+tests/
+jest.config.js
+verificar-ejercicios.sh
