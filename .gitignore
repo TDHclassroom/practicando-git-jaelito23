@@ -13,3 +13,7 @@ node_modules/
 .devcontainer/
 .dockerignore
 node_modules/
+.DS_Store
+.devcontainer/
+.dockerignore
+node_modules/
