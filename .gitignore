@@ -5,3 +5,7 @@ coverage/lcov-report/index.html
 .devcontainer/
 .DS_Store
 .devcontainer/
+.DS_Store
+.devcontainer/
+.dockerignore
+node_modules/
